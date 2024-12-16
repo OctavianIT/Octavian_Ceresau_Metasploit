@@ -5,7 +5,7 @@ Nell'esercizio di oggi abbiamo utilizzato il framework di metasploit per bucare 
 ### **nmap**
 Scansione IP della macchina target
 ```bash
-nmap -sV -T5 192.168.1.1
+nmap -sV -T5 192.168.1.149
 ```
 ➡️ [Risultato scansione](https://github.com/OctavianIT/Octavian_Ceresau_Metasploit/blob/main/Octavian_Ceresau_Metasploit/foto/2.png)
 ### **vsftpd**
